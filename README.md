@@ -1,2 +1,2 @@
 ﻿portafolio
- Aquí van a ir mis proyectos realizados.
+ Aqui van a ir mis proyectos realizados.
